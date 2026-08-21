@@ -63,7 +63,7 @@ Quero continuar aprendendo e evoluindo para me tornar um desenvolvedor cada vez 
 
 ![LinkedIn](linkedin.png) [LinkedIn](https://www.linkedin.com/in/italo-carvalho-9b31ab19b/)
 <br />
-![Gmail](gmail.png) **[italocarvalho100@gmail.com](mailto:italocarvalho100@gmail.com)**
+[![Gmail](gmail.png)](mailto:italocarvalho100@gmail.com) [italocarvalho100@gmail.com](mailto:italocarvalho100@gmail.com)
 
 <br />
 

@@ -61,7 +61,7 @@ Quero continuar aprendendo e evoluindo para me tornar um desenvolvedor cada vez 
 
 ## 🌐 Conecte-se comigo
 
-[![LinkedIn](linkedin.png)](https://www.linkedin.com/in/italo-carvalho-9b31ab19b/)
+[![LinkedIn](linkedin.png)] **[ttps://www.linkedin.com/in/italo-carvalho-9b31ab19b/]**
 <br />
 ![Gmail](gmail.png) **[italocarvalho100@gmail.com](mailto:italocarvalho100@gmail.com)**
 
